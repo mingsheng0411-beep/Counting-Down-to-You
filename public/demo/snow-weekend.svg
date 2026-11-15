@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141a4a"/>
+      <stop offset="0.6" stop-color="#3f5aa8"/>
+      <stop offset="1" stop-color="#a9c4f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <g fill="#fff" opacity="0.85">
+    <circle cx="70" cy="80" r="2"/><circle cx="160" cy="180" r="1.500"/><circle cx="250" cy="60" r="2.200"/><circle cx="350" cy="150" r="1.600"/>
+    <circle cx="450" cy="70" r="2"/><circle cx="540" cy="200" r="1.500"/><circle cx="630" cy="90" r="2.300"/><circle cx="720" cy="170" r="1.700"/>
+    <circle cx="110" cy="280" r="2"/><circle cx="310" cy="300" r="1.800"/><circle cx="500" cy="320" r="2"/><circle cx="690" cy="290" r="1.800"/>
+  </g>
+  <path d="M0 470 150 250l90 110 110-190 130 200 80-90 240 190v130H0z" fill="#27337a"/>
+  <path d="M350 170l46 70-30-12-22 26-18-30-26 22zM150 250l34 50-24-8-18 20-14-24zM560 280l40 44-28-6-16 16-10-18z" fill="#eef4ff"/>
+  <path d="M0 520c120-50 260-50 400-10s280 30 400-20v110H0z" fill="#e8f0ff"/>
+  <g fill="#1a2260">
+    <path d="M118 520l22-70 22 70zM124 490l16-52 16 52zM640 505l20-64 20 64zM646 478l14-46 14 46z"/>
+  </g>
+  <g>
+    <rect x="360" y="468" width="80" height="50" fill="#3a2a52"/>
+    <path d="M348 470l52-38 52 38z" fill="#eef4ff"/>
+    <rect x="390" y="486" width="20" height="18" fill="#ffd590"/>
+  </g>
+</svg>

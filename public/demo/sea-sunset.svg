@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3d3a8c"/>
+      <stop offset="0.5" stop-color="#e0708a"/>
+      <stop offset="1" stop-color="#ffc27a"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b6557a"/>
+      <stop offset="1" stop-color="#2a2460"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#sky)"/>
+  <circle cx="400" cy="360" r="96" fill="#fff0c8"/>
+  <path d="M110 150c30-22 70-22 96 0 22-10 46-6 60 10H90c4-6 12-10 20-10zM540 110c24-18 56-18 78 0 18-8 38-4 50 8H524c4-5 10-8 16-8z" fill="#fff" opacity="0.28"/>
+  <rect y="360" width="800" height="240" fill="url(#sea)"/>
+  <g stroke="#fff0c8" stroke-linecap="round" stroke-width="5" opacity="0.75">
+    <path d="M340 385h120M300 415h200M330 448h140M280 485h240M320 525h160M290 565h220"/>
+  </g>
+  <g stroke="#fff" stroke-opacity="0.18" stroke-width="3" stroke-linecap="round">
+    <path d="M60 410h120M600 430h140M100 500h90M620 520h110M40 570h130"/>
+  </g>
+  <g fill="#1d1947">
+    <circle cx="170" cy="318" r="9"/><path d="M161 330h18l4 34h-26z"/>
+    <circle cx="200" cy="322" r="8"/><path d="M192 333h16l4 31h-24z"/>
+    <path d="M0 362c80-10 180-6 260 4v14H0z"/>
+  </g>
+</svg>
