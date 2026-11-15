@@ -57,7 +57,7 @@ const text = {
     moodA: "Awake, missing you",
     moodB: "Bet you're awake too",
     flight: "Departs Dec 28",
-    brand: "Before We Meet",
+    brand: "Counting Down to You",
     wish: "May you all meet again soon",
     rain: "Rain",
     clear: "Clear",

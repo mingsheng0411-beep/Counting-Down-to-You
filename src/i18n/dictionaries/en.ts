@@ -2,11 +2,11 @@ import type { Dictionary } from "./zh";
 
 export const en: Dictionary = {
   meta: {
-    title: "Before We Meet · A private space for long-distance couples",
+    title: "Counting Down to You · For two people far apart",
     description:
-      "Count down to your next meeting, see the distance and time between you, and keep the memories that belong to just the two of you.",
+      "A small shared space for two people far apart: count down to the next time you meet on a map that follows day and night, see the distance, weather and mood between you, and keep your memories and plans together.",
   },
-  brand: "Before We Meet",
+  brand: "Counting Down to You",
   common: {
     save: "Save",
     saving: "Saving…",
@@ -21,7 +21,7 @@ export const en: Dictionary = {
   },
   landing: {
     open: "Open space",
-    eyebrow: "A private space for long-distance couples",
+    eyebrow: "For two people far apart",
     title: "However far, together",
     sub: "Count down to the next time you meet, see the distance and hours between you, and keep your shared memories in a place that belongs to just the two of you.",
     cta: "Create our space",

@@ -1,8 +1,8 @@
 # 在见面之前
 
-**Before We Meet** · 给异国恋人的私密空间：在一张会随昼夜变化的地图上，一起倒数下次见面，看见彼此的距离、天气和心情，存放共同的回忆和计划。
+**Counting Down to You** · 给相隔两地的人的一个小空间：在一张会随昼夜变化的地图上，一起倒数下次见面，看见彼此的距离、天气和心情，存放共同的回忆和计划。
 
-A private space for long-distance couples: count down to your next meeting on a map that follows day and night, see the distance, weather and mood between you, and keep your shared memories and plans.
+A small shared space for two people far apart: count down to the next time you meet on a map that follows day and night, see the distance, weather and mood between you, and keep your shared memories and plans.
 
 > 本文件是项目的核心大纲。方向、范围或版本计划有变化时，先改这里。
 >
@@ -10,7 +10,7 @@ A private space for long-distance couples: count down to your next meeting on a 
 
 ## 一句话定位
 
-任何一对异国情侣都可以注册，拥有一个只属于两个人的页面。不限国家，不限语言。
+任何相隔两地的两个人（恋人、家人、朋友）都可以拥有一个只属于彼此的页面。不限国家，不限语言。
 
 ## 核心概念
 
@@ -177,7 +177,7 @@ public/demo/             示例空间的插图
 
 ## 待确认的问题
 
-- [x] 产品名称：在见面之前（Before We Meet）
+- [x] 产品名称：在见面之前（Counting Down to You）
 - [ ] 域名
 - [ ] 首批支持的语言
 - [ ] 中国大陆的访问：Supabase、Vercel 这类海外服务在大陆不稳定，如果要覆盖一方在大陆的情侣，需要单独的方案
